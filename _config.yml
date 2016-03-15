@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://starkster.github.io
+title: starkster
+tagline: texts about nothing
+description: when you wanna talk tough topics but most people around you are ignorants.
+paginate: 5
